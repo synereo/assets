@@ -8,13 +8,13 @@ Usage guidelines will evolve here...
 
 
 |ALWAYS leave 3mm per side|NEVER distort the logo|NEVER use other colors|
-|:-------------:|:-------------:|:-----:|
+|:-----:|:-----:|:-----:|
 |![Spacing][Usage-Spacing]|![Distortion][Usage-Distortion]|![Alternate Colors][Usage-Colors]|
 
 
 ###Color Usage
-|:2EAEE3:|:96989B:|:A8CF45:|:F58634:|
-|:-------------:|:-------------:|:-----:|:-----:|
+|2EAEE3|96989B|A8CF45|F58634|
+|:-----:|:-----:|:-----:|:-----:|
 |![2EAEE3][2EAEE3]|![96989B][96989B]||![A8CF45][A8CF45]|![F58634][F58634]||
 
 
