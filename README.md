@@ -13,8 +13,8 @@ Usage guidelines will evolve here...
 
 
 ###Color Usage
-|:2EAEE3:|:NEVER distort the logo:|:NEVER use other colors:|
-|:-------------:|:-------------:|:-----:|
+|:2EAEE3:|:96989B:|:A8CF45:|:F58634:|
+|:-------------:|:-------------:|:-----:|:-----:|
 |![2EAEE3][2EAEE3]|![96989B][96989B]||![A8CF45][A8CF45]|![F58634][F58634]||
 
 
